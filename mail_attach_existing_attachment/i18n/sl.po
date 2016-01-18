@@ -3,13 +3,14 @@
 # * mail_attach_existing_attachment
 # 
 # Translators:
+# Matjaž Mozetič <m.mozetic@matmoz.si>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: social (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-31 10:17+0000\n"
-"PO-Revision-Date: 2015-08-31 10:17+0000\n"
-"Last-Translator: <>\n"
+"POT-Creation-Date: 2015-09-04 14:42+0000\n"
+"PO-Revision-Date: 2015-09-07 14:25+0000\n"
+"Last-Translator: Matjaž Mozetič <m.mozetic@matmoz.si>\n"
 "Language-Team: Slovenian (http://www.transifex.com/oca/OCA-social-8-0/language/sl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,12 +21,12 @@ msgstr ""
 #. module: mail_attach_existing_attachment
 #: field:mail.compose.message,object_attachment_ids:0
 msgid "Attachments"
-msgstr ""
+msgstr "Priponke"
 
 #. module: mail_attach_existing_attachment
 #: field:mail.compose.message,can_attach_attachment:0
 msgid "Can Attach Attachment"
-msgstr ""
+msgstr "Lahko pripenja priponke"
 
 #. module: mail_attach_existing_attachment
 #: model:ir.model,name:mail_attach_existing_attachment.model_mail_compose_message
